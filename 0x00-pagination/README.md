@@ -54,5 +54,6 @@ class Server:
     + `prev_page`: number of the previous page, `None` if no previous page.
     + `total_pages`: the total number of pages in the dataset as an integer.
   + Make sure to reuse get_page in your implementation.
+  + You can use the `math` module if necessary.
 
 

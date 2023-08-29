@@ -3,4 +3,9 @@
 # i18n
 `Back-end` This project contains tasks for learning to create internationalized web pages with Flask.
 
-## Tasks To Complete
+- By: Emmanuel Turlay, Staff Software Engineer at Cruise
+## Resources
+**Read or watch:**
+- [Flask-Babel](https://flask-babel.tkte.ch/)
+- [Flask i18n tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xiii-i18n-and-l10n)
+- [pytz](https://pytz.sourceforge.net/)

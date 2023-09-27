@@ -1,0 +1,19 @@
+{
+  "name": "queuing_system_in_js",
+  "version": "1.0.0",
+  "description": "A project for leaning the basic of a queueing system in Node.js",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "mocha --require @richardstl/register --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richard-1257/alx-backend.git"
+  },
+  "author": "RichardsTL <richardsifeanyi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richard-1257/alx-backend/issues"
+  },
+  "homepage": "https://github.com/richard-1257/alx-backend#readme"
+}
